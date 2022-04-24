@@ -1,0 +1,55 @@
+[25-Mar-2022 19:23:57 UTC] PHP Warning:  require_once(/home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/../bootstrap/app.php): Failed to open stream: No such file or directory in /home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/index.php on line 47
+[25-Mar-2022 19:23:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/index.php on line 47
+[25-Mar-2022 19:24:02 UTC] PHP Warning:  require_once(/home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/../bootstrap/app.php): Failed to open stream: No such file or directory in /home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/index.php on line 47
+[25-Mar-2022 19:24:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/index.php on line 47
+[25-Mar-2022 19:24:05 UTC] PHP Warning:  require_once(/home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/../bootstrap/app.php): Failed to open stream: No such file or directory in /home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/index.php on line 47
+[25-Mar-2022 19:24:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/index.php on line 47
+[25-Mar-2022 19:26:18 UTC] PHP Warning:  require_once(/home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/../bootstrap/app.php): Failed to open stream: No such file or directory in /home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/index.php on line 47
+[25-Mar-2022 19:26:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/index.php on line 47
+[25-Mar-2022 19:26:19 UTC] PHP Warning:  require_once(/home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/../bootstrap/app.php): Failed to open stream: No such file or directory in /home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/index.php on line 47
+[25-Mar-2022 19:26:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/index.php on line 47
+[25-Mar-2022 19:29:21 UTC] PHP Warning:  require_once(/home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/../bootstrap/app.php): Failed to open stream: No such file or directory in /home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/index.php on line 47
+[25-Mar-2022 19:29:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/index.php on line 47
+[25-Mar-2022 19:29:33 UTC] PHP Warning:  require_once(/home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/../bootstrap/app.php): Failed to open stream: No such file or directory in /home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/index.php on line 47
+[25-Mar-2022 19:29:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/index.php on line 47
+[25-Mar-2022 19:29:43 UTC] PHP Warning:  require_once(/home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/../bootstrap/app.php): Failed to open stream: No such file or directory in /home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/index.php on line 47
+[25-Mar-2022 19:29:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home2/turanoz1/projetakipsistemi.turanoz.com.tr/public/index.php on line 47
+[29-Mar-2022 14:13:58 UTC] PHP Warning:  require(/home2/projetak/public_html/../../laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home2/projetak/public_html/index.php on line 34
+[29-Mar-2022 14:13:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/projetak/public_html/../../laravel/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/projetak/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/projetak/public_html/index.php on line 34
+[29-Mar-2022 14:14:03 UTC] PHP Warning:  require(/home2/projetak/public_html/../../laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home2/projetak/public_html/index.php on line 34
+[29-Mar-2022 14:14:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/projetak/public_html/../../laravel/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/projetak/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/projetak/public_html/index.php on line 34
+[29-Mar-2022 14:14:07 UTC] PHP Warning:  require(/home2/projetak/public_html/../../laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home2/projetak/public_html/index.php on line 34
+[29-Mar-2022 14:14:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/projetak/public_html/../../laravel/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/projetak/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/projetak/public_html/index.php on line 34
